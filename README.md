@@ -1,5 +1,5 @@
 # RENFORTE-FINANCE
-Renforte Finance is a dynamic financial technology company founded with a vision to empower farmers and ensure the availability of food throughout the year. 
+Renforte Finance is a dynamic financial technology company founded with a vision to empower farmers and ensure the availability of food throughout the year.
 
 Unlike traditional banks, Renforte Finance focuses on delivering specialized financial solutions tailored to the unique needs of farmers. With a proven track record and a promising market, Renforte Finance is poised to revolutionize the agricultural finance sector. 
 
