@@ -7,4 +7,4 @@ The goal is to provide farmers with quick and flexible access to funds, while ma
 
 The Product Requirement Document and a website demo was prepared for provide insight on the solution.
 
-[https://irritechfinance.preview.softr.app/#feature-product2](url)
+[https://renfortefinance.preview.softr.app/?t=1688259312409](url)
